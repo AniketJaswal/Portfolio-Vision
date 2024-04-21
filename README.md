@@ -38,15 +38,15 @@ In order to evaluate the performance of the bank, a comprehensive report that di
 <br/><B><I>Overview Dashboard</I></B>
 
 Here we visually represent critical loan-related metrics and trends using a variety of chart types. These charts will provide a clear and insightful view of operations, facilitating data-driven decision-making and enabling us to gain valuable insights into various loan parameters. Below are the specific chart requirements:
-<li>Monthly Trends by Issue Date (Line Chart):
-<li>Regional Analysis by State (Filled Map):
-<li>Loan Term Analysis (Donut Chart):
-<li>Employee Length Analysis (Bar Chart):
-<li>Loan Purpose Breakdown (Bar Chart):
-<li>Home Ownership Analysis (Tree Map):
+<li>Monthly Trends by Issue Date 
+<li>Regional Analysis by State 
+<li>Loan Term Analysis 
+<li>Employee Length Analysis 
+<li>Loan Purpose Breakdown 
+<li>Home Ownership Analysis
 
                      
-In order to make the dashboard interactive and easy to use, filters were added that allow the dashboard to be changed as per various parameters such as pizza category, the range of day in which the pizzas were sold or to check for sales' records for a specific day.
+In order to make the dashboard interactive and easy to use, filters were added that allow the dashboard to be changed as per various parameters.
 
 <I><B>Comparison phase</B></I>
 <br/>This was the final step of the project where the created dashboard was compared with the outputs received from the SQL queries in order to ensure that the dashboard created provided correct insights .
