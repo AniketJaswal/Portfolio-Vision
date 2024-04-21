@@ -1,25 +1,25 @@
 This project involves using the loan application records of a bank for the year 2021 in order to gain information about the following key performance indicators:   
-                       <li> 1.	Total Loan Applications
-                       <li> 2.	Total Funded Amount
-                       <li> 3.	Total Amount Received
-                       <li> 4.	Average Interest Rate
-                       <li> 5.	Average Debt-to-Income Ratio (DTI)
+                       <li> Total Loan Applications
+                       <li> Total Funded Amount
+                       <li> Total Amount Received
+                       <li> Average Interest Rate
+                       <li> Average Debt-to-Income Ratio (DTI)
 
 In order to evaluate the performance of the bank, a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria was created which involved the usage of the following KPIs wrt to Good Loans and Bad Loans:
 
 Good Loan KPIs:
 
-<li>1.	Good Loan Application Percentage
-<li>2.	Good Loan Applications
-<li>3.	Good Loan Funded Amount
-<li>4.	Good Loan Total Received Amount
+<li>Good Loan Application Percentage
+<li>Good Loan Applications
+<li>Good Loan Funded Amount
+<li>Good Loan Total Received Amount
 
 Bad Loan KPIs:
 
-<li>1.	Bad Loan Application Percentage
-<li>2.	Bad Loan Applications
-<li>3.	Bad Loan Funded Amount
-<li>4.	Bad Loan Total Received Amount
+<li>Bad Loan Application Percentage
+<li>Bad Loan Applications
+<li>Bad Loan Funded Amount
+<li>Bad Loan Total Received Amount
 
 
 
