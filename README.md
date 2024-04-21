@@ -8,14 +8,12 @@ This project involves using the loan application records of a bank for the year 
 In order to evaluate the performance of the bank, a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria was created which involved the usage of the following KPIs wrt to Good Loans and Bad Loans:
 
 <B>Good Loan KPIs:</B>
-
 <li>Good Loan Application Percentage
 <li>Good Loan Applications
 <li>Good Loan Funded Amount
 <li>Good Loan Total Received Amount
 
 <B>Bad Loan KPIs:</B>
-
 <li>Bad Loan Application Percentage
 <li>Bad Loan Applications
 <li>Bad Loan Funded Amount
