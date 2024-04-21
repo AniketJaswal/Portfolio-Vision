@@ -5,7 +5,7 @@ This project involves using the loan application records of a bank for the year 
                        <li> Average Interest Rate
                        <li> Average Debt-to-Income Ratio (DTI)
                        
-In order to evaluate the performance of the bank, a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria was created which involved the usage of the following KPIs wrt to Good Loans and Bad Loans:
+<p>In order to evaluate the performance of the bank, a comprehensive report that distinguishes between 'Good Loans' and 'Bad Loans' based on specific loan status criteria was created which involved the usage of the following KPIs wrt to Good Loans and Bad Loans:
 
 <B>Good Loan KPIs:</B>
 <li>Good Loan Application Percentage
